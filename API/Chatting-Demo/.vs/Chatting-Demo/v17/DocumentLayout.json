@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\source-code\\chating\\API\\Chatting-Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{091AB4AE-A298-4FA0-8FE4-873003F720D8}|Chatting-Demo.csproj|d:\\source-code\\chating\\api\\chatting-demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{091AB4AE-A298-4FA0-8FE4-873003F720D8}|Chatting-Demo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091AB4AE-A298-4FA0-8FE4-873003F720D8}|Chatting-Demo.csproj|d:\\source-code\\chating\\api\\chatting-demo\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{091AB4AE-A298-4FA0-8FE4-873003F720D8}|Chatting-Demo.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091AB4AE-A298-4FA0-8FE4-873003F720D8}|Chatting-Demo.csproj|d:\\source-code\\chating\\api\\chatting-demo\\dataaccess\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{091AB4AE-A298-4FA0-8FE4-873003F720D8}|Chatting-Demo.csproj|solutionrelative:dataaccess\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091AB4AE-A298-4FA0-8FE4-873003F720D8}|Chatting-Demo.csproj|d:\\source-code\\chating\\api\\chatting-demo\\dataaccess\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{091AB4AE-A298-4FA0-8FE4-873003F720D8}|Chatting-Demo.csproj|solutionrelative:dataaccess\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091AB4AE-A298-4FA0-8FE4-873003F720D8}|Chatting-Demo.csproj|d:\\source-code\\chating\\api\\chatting-demo\\signal-r\\chattingclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{091AB4AE-A298-4FA0-8FE4-873003F720D8}|Chatting-Demo.csproj|solutionrelative:signal-r\\chattingclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{091AB4AE-A298-4FA0-8FE4-873003F720D8}|Chatting-Demo.csproj|d:\\source-code\\chating\\api\\chatting-demo\\signal-r\\chattinghub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{091AB4AE-A298-4FA0-8FE4-873003F720D8}|Chatting-Demo.csproj|solutionrelative:signal-r\\chattinghub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChattingHub.cs",
+              "DocumentMoniker": "D:\\source-code\\chating\\API\\Chatting-Demo\\Signal-R\\ChattingHub.cs",
+              "RelativeDocumentMoniker": "Signal-R\\ChattingHub.cs",
+              "ToolTip": "D:\\source-code\\chating\\API\\Chatting-Demo\\Signal-R\\ChattingHub.cs",
+              "RelativeToolTip": "Signal-R\\ChattingHub.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T05:35:45.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChattingClient.cs",
+              "DocumentMoniker": "D:\\source-code\\chating\\API\\Chatting-Demo\\Signal-R\\ChattingClient.cs",
+              "RelativeDocumentMoniker": "Signal-R\\ChattingClient.cs",
+              "ToolTip": "D:\\source-code\\chating\\API\\Chatting-Demo\\Signal-R\\ChattingClient.cs",
+              "RelativeToolTip": "Signal-R\\ChattingClient.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T06:57:46.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\source-code\\chating\\API\\Chatting-Demo\\DataAccess\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\IUserRepository.cs",
+              "ToolTip": "D:\\source-code\\chating\\API\\Chatting-Demo\\DataAccess\\IUserRepository.cs",
+              "RelativeToolTip": "DataAccess\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T06:27:27.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersRepository.cs",
+              "DocumentMoniker": "D:\\source-code\\chating\\API\\Chatting-Demo\\DataAccess\\UsersRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\UsersRepository.cs",
+              "ToolTip": "D:\\source-code\\chating\\API\\Chatting-Demo\\DataAccess\\UsersRepository.cs",
+              "RelativeToolTip": "DataAccess\\UsersRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T06:22:10.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\source-code\\chating\\API\\Chatting-Demo\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "D:\\source-code\\chating\\API\\Chatting-Demo\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAxwBkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T06:20:31.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\source-code\\chating\\API\\Chatting-Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\source-code\\chating\\API\\Chatting-Demo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T10:31:24.63Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
